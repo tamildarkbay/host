@@ -1,0 +1,20 @@
+[
+    {
+        "movieName": "Movie 1",
+        "releaseDate": "April 10, 2025",
+        "pcImage": "https://assets-in.bmscdn.com/discovery-catalog/events/et00408788-hqkcdlqwcj-landscape.jpg",
+        "mobileImage": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "movieName": "Movie 2",
+        "releaseDate": "May 15, 2025",
+        "pcImage": "path/to/pc-image2.jpg",
+        "mobileImage": "path/to/mobile-image2.jpg"
+    },
+    {
+        "movieName": "Movie 3",
+        "releaseDate": "June 20, 2025",
+        "pcImage": "path/to/pc-image3.jpg",
+        "mobileImage": "path/to/mobile-image3.jpg"
+    }
+]
